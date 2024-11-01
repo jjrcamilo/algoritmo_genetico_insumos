@@ -1,0 +1,1429 @@
+ 
+     [
+        {
+            "Cnes": 2078015,
+            "CodSQCN": 7176,
+            "Nome": "HOSPITAL DAS CLINICAS - HC DA FMUSP",
+            "Servico": "HOSPITAL DAS CLINICAS - HC DA FMUSP",
+            "Logradouro": "R. DR OVIDIO PIRES DE CAMPOS",
+            "Numero": "225",
+            "Cep": "05403-010",
+            "Bairro": "CERQUEIRA CESAR",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.557788,
+                "Longitude": -46.669658
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2661-0000",
+            "Telefone2": "3087-5456",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL DAS CLINICAS - HC DA FMUSP"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2058502,
+            "CodSQCN": 7134,
+            "Nome": "HOSPITAL DO SERVIDOR PÚBLICO ESTADUAL FRANCISCO MORATO DE OLIVEIRA",
+            "Servico": "HOSPITAL DO SERVIDOR PÚBLICO ESTADUAL FRANCISCO MORATO DE OLIVEIRA",
+            "Logradouro": "R. PEDRO DE TOLEDO",
+            "Numero": "1800",
+            "Cep": "04029-000",
+            "Bairro": "VILA CLEMENTINO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.596971,
+                "Longitude": -46.655547
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "4573-8000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL DO SERVIDOR PÚBLICO ESTADUAL FRANCISCO MORATO DE OLIVEIRA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2028840,
+            "CodSQCN": 7121,
+            "Nome": "HOSPITAL ESTADUAL - INST INFECTOLOGIA EMILIO RIBAS",
+            "Servico": "HOSPITAL ESTADUAL - INST INFECTOLOGIA EMILIO RIBAS",
+            "Logradouro": "AV. DR ARNALDO",
+            "Numero": "165",
+            "Cep": "01246-000",
+            "Bairro": "CERQUEIRA CESAR",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.555778,
+                "Longitude": -46.667538
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3896-1200",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL - INST INFECTOLOGIA EMILIO RIBAS"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2088495,
+            "CodSQCN": 7192,
+            "Nome": "HOSPITAL ESTADUAL DANTE PAZZANESE",
+            "Servico": "HOSPITAL ESTADUAL DANTE PAZZANESE",
+            "Logradouro": "AV. DR DANTE PAZZANESE",
+            "Numero": "500",
+            "Cep": "04012-180",
+            "Bairro": "IBIRAPUERA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.584659,
+                "Longitude": -46.652133
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5549-1538",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DANTE PAZZANESE"
+            ,"Prioridade":1
+        },
+        {
+            "Cnes": 2079240,
+            "CodSQCN": 7179,
+            "Nome": "HOSPITAL ESTADUAL DE GUAIANASES - JESUS TEIXEIRA DA COSTA",
+            "Servico": "HOSPITAL ESTADUAL DE  GUAIANASES - JESUS TEIXEIRA DA COSTA",
+            "Logradouro": "AV. MIGUEL ACHIOLE DA FONSECA",
+            "Numero": "1092",
+            "Cep": "08461-110",
+            "Bairro": "JARDIM SAO PAULO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.552683,
+                "Longitude": -46.405494
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2257-6972",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE  GUAIANASES - JESUS TEIXEIRA DA COSTA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077620,
+            "CodSQCN": 7171,
+            "Nome": "HOSPITAL ESTADUAL DE ITAIM PAULISTA ",
+            "Servico": "HOSPITAL ESTADUAL DE ITAIM PAULISTA ",
+            "Logradouro": "AV. MARECHAL TITO",
+            "Numero": "6035",
+            "Cep": "08115-100",
+            "Bairro": "ITAIM PAULISTA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.492536,
+                "Longitude": -46.388622
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2563-6300",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE ITAIM PAULISTA "
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2066092,
+            "CodSQCN": 7136,
+            "Nome": "HOSPITAL ESTADUAL DE PEDREIRA",
+            "Servico": "HOSPITAL ESTADUAL DE PEDREIRA",
+            "Logradouro": "R. JOÃO FRANCISCO DE MOURA",
+            "Numero": "251",
+            "Cep": "04455-170",
+            "Bairro": "VILA CAMPO GRANDE",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.681728,
+                "Longitude": -46.676783
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5613-5900",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE PEDREIRA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077493,
+            "CodSQCN": 7168,
+            "Nome": "HOSPITAL ESTADUAL DE SÃO MATEUS - MANOEL BIFULCO",
+            "Servico": "HOSPITAL ESTADUAL DE SÃO MATEUS - MANOEL BIFULCO",
+            "Logradouro": "R. ANGELO DE CANDIA",
+            "Numero": "540",
+            "Cep": "03958-000",
+            "Bairro": "SAO MATEUS",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.595116,
+                "Longitude": -46.486287
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2014-5148",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE SÃO MATEUS - MANOEL BIFULCO"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2091585,
+            "CodSQCN": 7199,
+            "Nome": "HOSPITAL ESTADUAL DE SAPOPEMBA",
+            "Servico": "HOSPITAL ESTADUAL DE SAPOPEMBA",
+            "Logradouro": "R. MANOEL FRANCA DOS SANTOS",
+            "Numero": "174",
+            "Cep": "03975-130",
+            "Bairro": "JARDIM SAPOPEMBA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.610677,
+                "Longitude": -46.493075
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2014-6000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE SAPOPEMBA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2082225,
+            "CodSQCN": 7184,
+            "Nome": "HOSPITAL ESTADUAL DE TAIPAS - KATIA DE SOUZA RODRIGUES",
+            "Servico": "HOSPITAL ESTADUAL DE TAIPAS - KATIA DE SOUZA RODRIGUES",
+            "Logradouro": "AV. ELISIO TEIXEIRA LEITE",
+            "Numero": "6.999",
+            "Cep": "02810-000",
+            "Bairro": "PARADA DE TAIPAS",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.443665,
+                "Longitude": -46.717665
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3973-0400",
+            "Telefone2": "3973-2040",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE TAIPAS - KATIA DE SOUZA RODRIGUES"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077426,
+            "CodSQCN": 7164,
+            "Nome": "HOSPITAL ESTADUAL DE VILA ALPINA",
+            "Servico": "HOSPITAL ESTADUAL DE VILA ALPINA",
+            "Logradouro": "AV. FRANCISCO FALCONI",
+            "Numero": "1501",
+            "Cep": "03227-000",
+            "Bairro": "VILA ALPINA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.593353,
+                "Longitude": -46.56157
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2318-2100",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE VILA ALPINA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2688573,
+            "CodSQCN": 7206,
+            "Nome": "HOSPITAL ESTADUAL DE VILA NOVA CACHOEIRINHA",
+            "Servico": "HOSPITAL ESTADUAL DE VILA NOVA CACHOEIRINHA",
+            "Logradouro": "AV. DEPUTADO EMILIO CARLOS",
+            "Numero": "3000",
+            "Cep": "02720-200",
+            "Bairro": "VL NOVA CAHOEIRINHA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.481524,
+                "Longitude": -46.672497
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3859-4822",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE VILA NOVA CACHOEIRINHA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2091755,
+            "CodSQCN": 7202,
+            "Nome": "HOSPITAL ESTADUAL DE VILA PENTEADO - DR JOSE PANGELLA",
+            "Servico": "HOSPITAL ESTADUAL DE VILA PENTEADO - DR JOSE PANGELLA",
+            "Logradouro": "AV. MINISTRO PETRONIO PORTELA",
+            "Numero": "1642",
+            "Cep": "02802-120",
+            "Bairro": "JD IRACEMA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.48535,
+                "Longitude": -46.695
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3976-9911",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DE VILA PENTEADO - DR JOSE PANGELLA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077671,
+            "CodSQCN": 7173,
+            "Nome": "HOSPITAL ESTADUAL DO GRAJAU - PROF LIBER JOHN ALPHONSE DI DIO",
+            "Servico": "HOSPITAL ESTADUAL DO GRAJAU - PROF LIBER JOHN ALPHONSE DI DIO",
+            "Logradouro": "R. FRANCISCO OCTAVIO PACCA",
+            "Numero": "180",
+            "Cep": "04822-030",
+            "Bairro": "PARQUE DAS NACOES",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.729279,
+                "Longitude": -46.690774
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3544-9443",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DO GRAJAU - PROF LIBER JOHN ALPHONSE DI DIO"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077574,
+            "CodSQCN": 7170,
+            "Nome": "HOSPITAL ESTADUAL DO MANDAQUI",
+            "Servico": "HOSPITAL ESTADUAL DO MANDAQUI",
+            "Logradouro": "R. VOLUNTARIOS DA PATRIA",
+            "Numero": "4301",
+            "Cep": "02401-400",
+            "Bairro": "SANTANA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.484058,
+                "Longitude": -46.631433
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2281-5000",
+            "Telefone2": "2281-5051",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL DO MANDAQUI"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077701,
+            "CodSQCN": 7174,
+            "Nome": "HOSPITAL ESTADUAL E MATERNIDADE LEONOR MENDES DE BARROS",
+            "Servico": "HOSPITAL ESTADUAL E MATERNIDADE LEONOR MENDES DE BARROS",
+            "Logradouro": "AV. CELSO GARCIA",
+            "Numero": "2477",
+            "Cep": "03015-000",
+            "Bairro": "BELENZINHO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.53612178,
+                "Longitude": -46.58847243
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2847-7000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL E MATERNIDADE LEONOR MENDES DE BARROS"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2088576,
+            "CodSQCN": 7194,
+            "Nome": "HOSPITAL ESTADUAL EURYCLIDES DE JESUS ZERBINI",
+            "Servico": "HOSPITAL ESTADUAL EURYCLIDES DE JESUS ZERBINI",
+            "Logradouro": "AV. BRIGADEIRO LUIS ANTONIO",
+            "Numero": "2651",
+            "Cep": "01401-901",
+            "Bairro": "JARDIM PAULISTA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.570378,
+                "Longitude": -46.651292
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3170-6329",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL EURYCLIDES DE JESUS ZERBINI"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2066572,
+            "CodSQCN": 7137,
+            "Nome": "HOSPITAL ESTADUAL HELIÓPOLIS",
+            "Servico": "HOSPITAL ESTADUAL HELIÓPOLIS",
+            "Logradouro": "R. CÔNEGO XAVIER",
+            "Numero": "276",
+            "Cep": "04231-030",
+            "Bairro": "CIDADE NOVA HELIOPOLIS",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.608567,
+                "Longitude": -46.593611
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2274-7600",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL HELIÓPOLIS"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2088517,
+            "CodSQCN": 7193,
+            "Nome": "HOSPITAL ESTADUAL INFANTIL CANDIDO FONTOURA",
+            "Servico": "HOSPITAL ESTADUAL INFANTIL CANDIDO FONTOURA",
+            "Logradouro": "R. SIQUEIRA BUENO",
+            "Numero": "1757",
+            "Cep": "03173-010",
+            "Bairro": "AGUA RASA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.551899,
+                "Longitude": -46.585229
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2603-5300",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL INFANTIL CANDIDO FONTOURA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2071371,
+            "CodSQCN": 7155,
+            "Nome": "HOSPITAL ESTADUAL INFANTIL DARCY VARGAS",
+            "Servico": "HOSPITAL ESTADUAL INFANTIL DARCY VARGAS",
+            "Logradouro": "R. DR SERAFICO DE ASSIS CARVALHO",
+            "Numero": "34",
+            "Cep": "04024-002",
+            "Bairro": "JARDIM GUEDALA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.592845,
+                "Longitude": -46.710893
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3723-3700",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL INFANTIL DARCY VARGAS"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077523,
+            "CodSQCN": 7169,
+            "Nome": "HOSPITAL ESTADUAL IPIRANGA",
+            "Servico": "HOSPITAL ESTADUAL IPIRANGA",
+            "Logradouro": "AV. NAZARÉ",
+            "Numero": "28",
+            "Cep": "04262-000",
+            "Bairro": "IPIRANGA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.584209,
+                "Longitude": -46.611574
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2067-7799",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL IPIRANGA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 5437156,
+            "CodSQCN": 7337,
+            "Nome": "HOSPITAL ESTADUAL LOCAL DE SAPOPEMBA",
+            "Servico": "HOSPITAL ESTADUAL LOCAL DE SAPOPEMBA",
+            "Logradouro": "R. IAMACARU",
+            "Numero": "45",
+            "Cep": "03982-060",
+            "Bairro": "SAPOPEMBA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.60985217,
+                "Longitude": -46.51377051
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2024-7510",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL LOCAL DE SAPOPEMBA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2065665,
+            "CodSQCN": 7135,
+            "Nome": "HOSPITAL ESTADUAL MATERNIDADE INTERLAGOS",
+            "Servico": "HOSPITAL ESTADUAL MATERNIDADE INTERLAGOS",
+            "Logradouro": "R. LEONOR ALVIM",
+            "Numero": "211",
+            "Cep": "04802-190",
+            "Bairro": "JD LEBLON",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.706816,
+                "Longitude": -46.701975
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5668-1232",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL MATERNIDADE INTERLAGOS"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2688514,
+            "CodSQCN": 7205,
+            "Nome": "HOSPITAL ESTADUAL PSIQUIÁTRICO DE VILA MARIANA",
+            "Servico": "HOSPITAL ESTADUAL PSIQUIÁTRICO DE VILA MARIANA",
+            "Logradouro": "R. MAJOR MARAGLIANO",
+            "Numero": "241",
+            "Cep": "04017-030",
+            "Bairro": "VILA MARIANA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.588146,
+                "Longitude": -46.638365
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3466-2100",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL PSIQUIÁTRICO DE VILA MARIANA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2091313,
+            "CodSQCN": 7195,
+            "Nome": "HOSPITAL ESTADUAL REGIONAL SUL",
+            "Servico": "HOSPITAL ESTADUAL REGIONAL SUL",
+            "Logradouro": "R. GENERAL ROBERTO ALVES DE CARVALHO FILHO",
+            "Numero": "270",
+            "Cep": "04744-000",
+            "Bairro": "SANTO AMARO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.655524,
+                "Longitude": -46.705822
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5694-8200",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL REGIONAL SUL"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2091356,
+            "CodSQCN": 7196,
+            "Nome": "HOSPITAL ESTADUAL VITAL BRAZIL",
+            "Servico": "HOSPITAL ESTADUAL VITAL BRAZIL",
+            "Logradouro": "AV. VITAL BRAZIL",
+            "Numero": "1500",
+            "Cep": "05503-900",
+            "Bairro": "BUTANTA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.565062,
+                "Longitude": -46.719688
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3726-7962",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL ESTADUAL VITAL BRAZIL"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 102075,
+            "CodSQCN": 7079,
+            "Nome": "HOSPITAL MUNICIPAL BELA VISTA - SANTA DULCE DOS POBRES",
+            "Servico": "HOSPITAL MUNICIPAL BELA VISTA - SANTA DULCE DOS POBRES",
+            "Logradouro": "R. ANTONIO CARLOS",
+            "Numero": "122",
+            "Cep": "01309-010",
+            "Bairro": "CONSOLAÇÃO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.557616,
+                "Longitude": -46.656307
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "4210-2970",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL BELA VISTA - SANTA DULCE DOS POBRES"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 102105,
+            "CodSQCN": 7080,
+            "Nome": "HOSPITAL MUNICIPAL BRASILÂNDIA - ADIB JATENE",
+            "Servico": "HOSPITAL MUNICIPAL BRASILÂNDIA - ADIB JATENE",
+            "Logradouro": "AV. MICHIHISA MURATA",
+            "Numero": "150",
+            "Cep": "02806-160",
+            "Bairro": "JARDIM MARISTELA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.475935,
+                "Longitude": -46.698152
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3386-4243",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL BRASILÂNDIA - ADIB JATENE"
+            ,"Prioridade":2               
+        },
+        {
+            "Cnes": 2786680,
+            "CodSQCN": 7260,
+            "Nome": "HOSPITAL MUNICIPAL CAMPO LIMPO - DR. FERNANDO MAURO PIRES DA ROCHA",
+            "Servico": "HOSPITAL MUNICIPAL CAMPO LIMPO - DR. FERNANDO MAURO PIRES DA ROCHA",
+            "Logradouro": "ESTRADA DE ITAPECERICA",
+            "Numero": "1661",
+            "Cep": "05835-005",
+            "Bairro": "CAMPO LIMPO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.64856,
+                "Longitude": -46.748645
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-2450",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL CAMPO LIMPO - DR. FERNANDO MAURO PIRES DA ROCHA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 7992890,
+            "CodSQCN": 7663,
+            "Nome": "HOSPITAL MUNICIPAL CAPELA DO SOCORRO",
+            "Servico": "HOSPITAL MUNICIPAL CAPELA DO SOCORRO",
+            "Logradouro": "R. CASSIO DE CAMPOS NOGUEIRA",
+            "Numero": "2031",
+            "Cep": "04829-310",
+            "Bairro": "JARDIM DAS IMBUIAS",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.730042,
+                "Longitude": -46.713403
+            },
+            "Tipo": 3,
+            "Subtipo": "307|306",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital|Unidades Especializadas",
+            "NomeSubTipo": "Hospital|HOSPITAL DIA",
+            "Telefone1": "5527-1060",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL CAPELA DO SOCORRO",
+            "Prioridade": 2
+        },
+        {
+            "Cnes": 5420938,
+            "CodSQCN": 7336,
+            "Nome": "HOSPITAL MUNICIPAL CIDADE TIRADENTES - CARMEN PRUDENTE",
+            "Servico": "HOSPITAL MUNICIPAL CIDADE TIRADENTES - CARMEN PRUDENTE",
+            "Logradouro": "AV. DOS METALURGICOS",
+            "Numero": "1797",
+            "Cep": "08471-000",
+            "Bairro": "CIDADE TIRADENTES",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.597277,
+                "Longitude": -46.403598
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2559-6200",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL CIDADE TIRADENTES - CARMEN PRUDENTE",
+            "Prioridade": 2
+        },
+        {
+            "Cnes": 2084473,
+            "CodSQCN": 7188,
+            "Nome": "HOSPITAL MUNICIPAL DR. IGNÁCIO PROENÇA DE GOUVEA",
+            "Servico": "HOSPITAL MUNICIPAL DR. IGNÁCIO PROENÇA DE GOUVEA",
+            "Logradouro": "R. JUVENTUS",
+            "Numero": "562",
+            "Cep": "03124-020",
+            "Bairro": "MOOCA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.571907,
+                "Longitude": -46.590292
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-0000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL DR. IGNÁCIO PROENÇA DE GOUVEA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2079186,
+            "CodSQCN": 7178,
+            "Nome": "HOSPITAL MUNICIPAL E MATERN ESC CACHOEIRINHA - DR. MÁRIO DE M A DA SILVA ",
+            "Servico": "HOSPITAL MUNICIPAL E MATERN ESC CACHOEIRINHA - DR. MÁRIO DE M A DA SILVA ",
+            "Logradouro": "AV. DEPUTADO EMILIO CARLOS",
+            "Numero": "3100",
+            "Cep": "02720-200",
+            "Bairro": "VILA  NOVA CACHOEIRINHA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.479973,
+                "Longitude": -46.671088
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3986-1000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL E MATERN ESC CACHOEIRINHA - DR. MÁRIO DE M A DA SILVA "
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2082829,
+            "CodSQCN": 7185,
+            "Nome": "HOSPITAL MUNICIPAL ERMELINO MATARAZZO - PROF. DR. ALÍPIO CORREA NETTO",
+            "Servico": "HOSPITAL MUNICIPAL ERMELINO MATARAZZO - PROF.  DR. ALÍPIO CORREA NETTO",
+            "Logradouro": "ALAMEDA RODRIGO DE BRUM",
+            "Numero": "1989",
+            "Cep": "03807-230",
+            "Bairro": "VILA PARANAGUÁ",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.500191,
+                "Longitude": -46.472155
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-2000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL ERMELINO MATARAZZO - PROF.  DR. ALÍPIO CORREA NETTO"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 7711980,
+            "CodSQCN": 7643,
+            "Nome": "HOSPITAL MUNICIPAL GILSON DE CASSIA MARQUES DE CARVALHO",
+            "Servico": "HOSPITAL MUNICIPAL GILSON DE CASSIA MARQUES DE CARVALHO",
+            "Logradouro": "AV. SANTA CATARINA",
+            "Numero": "2785",
+            "Cep": "04378-200",
+            "Bairro": "VILA MASCOTE",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.65679114,
+                "Longitude": -46.65329202
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL GILSON DE CASSIA MARQUES DE CARVALHO"
+            ,"Prioridade":2 
+        },
+        {
+            "Cnes": 161438,
+            "CodSQCN": 7082,
+            "Nome": "HOSPITAL MUNICIPAL GUARAPIRANGA",
+            "Servico": "HOSPITAL MUNICIPAL GUARAPIRANGA",
+            "Logradouro": "ESTRADA DA RIVIERA",
+            "Numero": "4742",
+            "Cep": "04916-000",
+            "Bairro": "RIVIERA PAULISTA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.706138,
+                "Longitude": -46.742163
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3113-9592",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL GUARAPIRANGA"
+            ,"Prioridade":2 
+        },
+        {
+            "Cnes": 2078325,
+            "CodSQCN": 7177,
+            "Nome": "HOSPITAL MUNICIPAL INFANTIL MENINO JESUS",
+            "Servico": "HOSPITAL MUNICIPAL INFANTIL MENINO JESUS",
+            "Logradouro": "R. DOS INGLESES",
+            "Numero": "258",
+            "Cep": "01329-000",
+            "Bairro": "BELA VISTA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.560183,
+                "Longitude": -46.647347
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3016-0500",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL INFANTIL MENINO JESUS"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077639,
+            "CodSQCN": 7172,
+            "Nome": "HOSPITAL MUNICIPAL ITAQUERA/PLANALTO - PROF. DR. WALDOMIRO DE PAULA ",
+            "Servico": "HOSPITAL MUNICIPAL ITAQUERA/PLANALTO - PROF. DR. WALDOMIRO DE PAULA ",
+            "Logradouro": "R. AUGUSTO CARLOS BAUMANN",
+            "Numero": "1074",
+            "Cep": "08210-590",
+            "Bairro": "ITAQUERA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.53088,
+                "Longitude": -46.44479
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-0500",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL ITAQUERA/PLANALTO - PROF. DR. WALDOMIRO DE PAULA "
+            ,"Prioridade":2                
+        },
+        {
+            "Cnes": 2081970,
+            "CodSQCN": 7183,
+            "Nome": "HOSPITAL MUNICIPAL JABAQUARA - DR. ARTUR RIBEIRO DE SABOYA",
+            "Servico": "HOSPITAL MUNICIPAL  JABAQUARA - DR. ARTUR RIBEIRO DE SABOYA",
+            "Logradouro": "AV. FRANCISCO DE PAULA QUINTANILHA RIBEIRO",
+            "Numero": "860",
+            "Cep": "04330-020",
+            "Bairro": "JABAQUARA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.653383,
+                "Longitude": -46.645403
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-1000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL  JABAQUARA - DR. ARTUR RIBEIRO DE SABOYA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2084139,
+            "CodSQCN": 7187,
+            "Nome": "HOSPITAL MUNICIPAL JARDIM IVA - DR BENEDICTO MONTENEGRO",
+            "Servico": "HOSPITAL MUNICIPAL JARDIM IVA - DR BENEDICTO MONTENEGRO",
+            "Logradouro": "R. ANTONIO LÁZARO",
+            "Numero": "226",
+            "Cep": "03921-080",
+            "Bairro": "JD IVA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.587581,
+                "Longitude": -46.514409
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-2750",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL JARDIM IVA - DR BENEDICTO MONTENEGRO"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 5718368,
+            "CodSQCN": 7345,
+            "Nome": "HOSPITAL MUNICIPAL M BOI MIRIM - DR MOYSES DEUSTSCH",
+            "Servico": "HOSPITAL MUNICIPAL M BOI MIRIM - DR MOYSES DEUSTSCH",
+            "Logradouro": "ESTRADA M BOI MIRIM",
+            "Numero": "5203",
+            "Cep": "04948-970",
+            "Bairro": "JARDIM ANGELA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.691806,
+                "Longitude": -46.775098
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": " 5832-2554",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL M BOI MIRIM - DR MOYSES DEUSTSCH"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2075717,
+            "CodSQCN": 7161,
+            "Nome": "HOSPITAL MUNICIPAL MATERNIDADE JARDIM SARAH - PROF. MARIO DEGNI",
+            "Servico": "HOSPITAL MUNICIPAL MATERNIDADE JARDIM SARAH - PROF. MARIO DEGNI",
+            "Logradouro": "R. LUCAS DE LEYDE",
+            "Numero": "257",
+            "Cep": "05376-010",
+            "Bairro": "VILA ANTONIO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.578028,
+                "Longitude": -46.764717
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-1750",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL MATERNIDADE JARDIM SARAH - PROF. MARIO DEGNI"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 9465464,
+            "CodSQCN": 7687,
+            "Nome": "HOSPITAL MUNICIPAL PARELHEIROS - JOSANIAS CASTANHA BRAGA",
+            "Servico": "HOSPITAL MUNICIPAL PARELHEIROS - JOSANIAS CASTANHA BRAGA",
+            "Logradouro": "R. EUZEBIO COGHI",
+            "Numero": "841",
+            "Cep": "04883-290",
+            "Bairro": "JARDIM ROSCHEL",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.82289,
+                "Longitude": -46.725401
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL PARELHEIROS - JOSANIAS CASTANHA BRAGA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2077450,
+            "CodSQCN": 7165,
+            "Nome": "HOSPITAL MUNICIPAL PIRITUBA - DR. JOSÉ SOARES HUNGRIA",
+            "Servico": "HOSPITAL MUNICIPAL PIRITUBA - DR. JOSÉ SOARES HUNGRIA",
+            "Logradouro": "AV. MENOTTI LAUDÍSIO",
+            "Numero": "100",
+            "Cep": "02945-000",
+            "Bairro": "PIRITUBA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.484607,
+                "Longitude": -46.727648
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-0750",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL PIRITUBA - DR. JOSÉ SOARES HUNGRIA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2080583,
+            "CodSQCN": 7181,
+            "Nome": "HOSPITAL MUNICIPAL SÃO MIGUEL - TIDE SETUBAL",
+            "Servico": "HOSPITAL MUNICIPAL SÃO MIGUEL - TIDE SETUBAL",
+            "Logradouro": "R. DR JOSÉ GUILHERME EIRAS",
+            "Numero": "123",
+            "Cep": "08010-220",
+            "Bairro": "SÃO MIGUEL PAULISTA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.497067,
+                "Longitude": -46.440204
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-1250",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL SÃO MIGUEL - TIDE SETUBAL"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 6998194,
+            "CodSQCN": 7612,
+            "Nome": "HOSPITAL MUNICIPAL SOROCABANA",
+            "Servico": "HOSPITAL MUNICIPAL SOROCABANA",
+            "Logradouro": "R. FAUSTOLO",
+            "Numero": "1633",
+            "Cep": "05041-001",
+            "Bairro": "VILA ROMANA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.523754,
+                "Longitude": -46.701408
+            },
+            "Tipo": 3,
+            "Subtipo": "307|306",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital|Unidades Especializadas",
+            "NomeSubTipo": "Hospital|HOSPITAL DIA",
+            "Telefone1": "3879-3090",
+            "Telefone2": "3862-9197",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL SOROCABANA"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2080346,
+            "CodSQCN": 7180,
+            "Nome": "HOSPITAL MUNICIPAL TATUAPÉ - DR. CARMINO CARICCHIO",
+            "Servico": "HOSPITAL MUNICIPAL TATUAPÉ - DR. CARMINO CARICCHIO",
+            "Logradouro": "AV. CELSO GARCIA",
+            "Numero": "4815",
+            "Cep": "03063-000",
+            "Bairro": "TATUAPÉ",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.533267,
+                "Longitude": -46.566291
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-1500",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL TATUAPÉ - DR. CARMINO CARICCHIO"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 3212130,
+            "CodSQCN": 7299,
+            "Nome": "HOSPITAL MUNICIPAL VILA MARIA - VEREADOR JOSÉ STOROPOLLI",
+            "Servico": "HOSPITAL MUNICIPAL VILA MARIA - VEREADOR JOSÉ STOROPOLLI",
+            "Logradouro": "R. FRANCISCO FANGANIELLO",
+            "Numero": "127",
+            "Cep": "02181-160",
+            "Bairro": "PARQUE NOVO MUNDO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.521924,
+                "Longitude": -46.562067
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2207-9000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL VILA MARIA - VEREADOR JOSÉ STOROPOLLI"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2080788,
+            "CodSQCN": 7182,
+            "Nome": "HOSPITAL MUNICIPAL VILA NHOCUNÉ - DR. ALEXANDRE ZAIO",
+            "Servico": "HOSPITAL MUNICIPAL VILA NHOCUNÉ - DR. ALEXANDRE ZAIO",
+            "Logradouro": "R. ALVES MALDONADO",
+            "Numero": "128",
+            "Cep": "03558-050",
+            "Bairro": "VILA NHOCUNE",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.542285,
+                "Longitude": -46.501634
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5178-0250",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL MUNICIPAL VILA NHOCUNÉ - DR. ALEXANDRE ZAIO"
+            ,"Prioridade":2               
+        },
+        {
+            "Cnes": 2077477,
+            "CodSQCN": 7166,
+            "Nome": "HOSPITAL SANTA MARCELINA",
+            "Servico": "HOSPITAL SANTA MARCELINA",
+            "Logradouro": "R. SANTA MARCELINA",
+            "Numero": "177",
+            "Cep": "08270-070",
+            "Bairro": "ITAQUERA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.553059,
+                "Longitude": -46.461011
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2070-6293",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL SANTA MARCELINA"
+            ,"Prioridade":2                 
+        },
+        {
+            "Cnes": 2077485,
+            "CodSQCN": 7167,
+            "Nome": "HOSPITAL SÃO PAULO - UNIFESP",
+            "Servico": "HOSPITAL SÃO PAULO - UNIFESP",
+            "Logradouro": "R. NAPOLEÃO DE BARROS",
+            "Numero": "715",
+            "Cep": "04024-002",
+            "Bairro": "VIL CLEMENTINO",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.597479,
+                "Longitude": -46.643699
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "5572-1922",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL SÃO PAULO - UNIFESP"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2076926,
+            "CodSQCN": 7162,
+            "Nome": "HOSPITAL UNIVERSITARIO - HU/USP",
+            "Servico": "HOSPITAL UNIVERSITARIO - HU/USP",
+            "Logradouro": "AV. PROF. LINEU PRESTES",
+            "Numero": "2565",
+            "Cep": "05508-900",
+            "Bairro": "BUTANTA",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.565528,
+                "Longitude": -46.740293
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3039-9200",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "HOSPITAL UNIVERSITARIO - HU/USP"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2812703,
+            "CodSQCN": 7266,
+            "Nome": "INSTITUTO DE PSIQUIATRIA - HC/FMUSP",
+            "Servico": "INSTITUTO DE PSIQUIATRIA - HC/FMUSP",
+            "Logradouro": "R. DR OVÍDIO PIRES DE CAMPOS",
+            "Numero": "785",
+            "Cep": "05403-010",
+            "Bairro": "CERQUEIRA CESAR",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.558049,
+                "Longitude": -46.667093
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3087-5456",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "INSTITUTO DE PSIQUIATRIA - HC/FMUSP"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 5451612,
+            "CodSQCN": 7338,
+            "Nome": "INSTITUTO DE REABILITAÇÃO LUCY MONTORO",
+            "Servico": "INSTITUTO DE REABILITAÇÃO LUCY MONTORO",
+            "Logradouro": "R. JANDIATUBA",
+            "Numero": "580",
+            "Cep": "05716-150",
+            "Bairro": "VILA ANDRADE",
+            "Horario": "Segunda a Domingo: 06:30h às 20h",
+            "Geo": {
+                "Latitude": -23.632371,
+                "Longitude": -46.735387
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3905-8300",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "INSTITUTO DE REABILITAÇÃO LUCY MONTORO"
+            ,"Prioridade":2 
+        },
+        {
+            "Cnes": 6123740,
+            "CodSQCN": 7546,
+            "Nome": "INSTITUTO DO CÂNCER DO ESTADO DE SÃO PAULO",
+            "Servico": "INSTITUTO DO CÂNCER DO ESTADO DE SÃO PAULO",
+            "Logradouro": "AV. DR ARNALDO",
+            "Numero": "251",
+            "Cep": "01246-000",
+            "Bairro": "CERQUEIRA CESAR",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.555266,
+                "Longitude": -46.668938
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "3893-2000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "INSTITUTO DO CÂNCER DO ESTADO DE SÃO PAULO"
+            ,"Prioridade":2 
+        },
+        {
+            "Cnes": 2071568,
+            "CodSQCN": 7157,
+            "Nome": "INSTITUTO DO CORAÇÃO - INCOR HC/FMUSP",
+            "Servico": "INSTITUTO DO CORAÇÃO - INCOR HC/FMUSP",
+            "Logradouro": "AV. DR ENEAS DE CARVALHO AGUIAR",
+            "Numero": "44",
+            "Cep": "05403-000",
+            "Bairro": "CERQUEIRA CESAR",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.556796,
+                "Longitude": -46.668253
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2661-5000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "INSTITUTO DO CORAÇÃO - INCOR HC/FMUSP"
+            ,"Prioridade":2
+        },
+        {
+            "Cnes": 2688689,
+            "CodSQCN": 7207,
+            "Nome": "SANTA CASA DE SÃO PAULO",
+            "Servico": "SANTA CASA DE SÃO PAULO",
+            "Logradouro": "R. DR CESARIO MOTTA JR",
+            "Numero": "112",
+            "Cep": "01221-020",
+            "Bairro": "VILA BUARQUE",
+            "Horario": "Segunda a Domingo: 24 horas",
+            "Geo": {
+                "Latitude": -23.542683,
+                "Longitude": -46.649326
+            },
+            "Tipo": 3,
+            "Subtipo": "307",
+            "UBSReferencia": false,
+            "NomeTipo": "Hospital",
+            "NomeSubTipo": "Hospital",
+            "Telefone1": "2176-7000",
+            "Telefone2": "",
+            "ExibirUBSReferencia": false,
+            "InformacoesConcatenadas": "SANTA CASA DE SÃO PAULO"
+            ,"Prioridade":2
+        }
+    ]
+ 
